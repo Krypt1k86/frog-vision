@@ -14,7 +14,7 @@ software which enables the use of /pay.
 
 For more information, as well as an immediately usable, binary version of
 the Frog Vision software, see https://vip.twetch.com, or read the
-[original greenpaper](https://bitcoincore.org/bitcoin.pdf).
+[original greenpaper](https://frog.vision/frogvision.pdf).
 
 License
 -------
