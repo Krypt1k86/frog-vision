@@ -14,7 +14,7 @@ software which enables the use of this currency.
 
 For more information, as well as an immediately usable, binary version of
 the Frog Vision software, see https://vip.twetch.com, or read the
-[original whitepaper](https://bitcoincore.org/bitcoin.pdf).
+[original greenpaper](https://bitcoincore.org/bitcoin.pdf).
 
 License
 -------
