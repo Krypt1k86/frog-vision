@@ -1,19 +1,19 @@
-Bitcoin Core integration/staging tree
+Frog Vision integration/staging tree
 =====================================
 
-https://bitcoincore.org
+https://frog.vision
 
-What is Bitcoin?
+What is Frog Vision?
 ----------------
 
-Bitcoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
+Bitcoin Frog Vision is an experimental digital currency that enables instant payments to
+anyone, anywhere in the world. Bitcoin uses fren-to-fren technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Bitcoin Core is the name of open source
+out collectively by the network. Frog Vision is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately usable, binary version of
-the Bitcoin Core software, see https://bitcoincore.org/en/download/, or read the
+the Frog Vision software, see https://vip.twetch.com, or read the
 [original whitepaper](https://bitcoincore.org/bitcoin.pdf).
 
 License
