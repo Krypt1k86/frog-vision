@@ -10,7 +10,7 @@ What is Frog Vision?
 anyone, anywhere in the world. <s>Bitcoin</s> Frog Vision uses fren-to-fren technology to operate
 with no central australian: managing transactions and issuing memes are carried
 out collectively by the network. Frog Vision is the name of open source
-software which enables the use of this currency.
+software which enables the use of /pay.
 
 For more information, as well as an immediately usable, binary version of
 the Frog Vision software, see https://vip.twetch.com, or read the
