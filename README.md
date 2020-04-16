@@ -6,8 +6,8 @@ https://frog.vision
 What is Frog Vision?
 ----------------
 
-Bitcoin Frog Vision is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Bitcoin uses fren-to-fren technology to operate
+<s>Bitcoin</s> Frog Vision is an experimental digital currency that enables instant payments to
+anyone, anywhere in the world. <s>Bitcoin</s> Frog Vision uses fren-to-fren technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Frog Vision is the name of open source
 software which enables the use of this currency.
