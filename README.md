@@ -8,7 +8,7 @@ What is Frog Vision?
 
 <s>Bitcoin</s> Frog Vision is an experimental digital currency that enables instant payments to
 anyone, anywhere in the world. <s>Bitcoin</s> Frog Vision uses fren-to-fren technology to operate
-with no central authority: managing transactions and issuing money are carried
+with no central australian: managing transactions and issuing memes are carried
 out collectively by the network. Frog Vision is the name of open source
 software which enables the use of this currency.
 
@@ -27,7 +27,7 @@ Development Process
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
 completely stable. [Tags](https://github.com/bitcoin/bitcoin/tags) are created
-regularly to indicate new official, stable release versions of Bitcoin Core.
+regularly to indicate new official, stable release versions of Frog Vision.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md)
 and useful hints for developers can be found in [doc/developer-notes.md](doc/developer-notes.md).
@@ -38,7 +38,7 @@ Testing
 Testing and code review is the bottleneck for development; we get more pull
 requests than we can review and test on short notice. Please be patient and help out by testing
 other people's pull requests, and remember this is a security-critical project where any mistake might cost people
-lots of money.
+lots of <s>money</s> m.
 
 ### Automated Testing
 
@@ -64,7 +64,7 @@ Translations
 ------------
 
 Changes to translations as well as new translations can be submitted to
-[Bitcoin Core's Transifex page](https://www.transifex.com/bitcoin/bitcoin/).
+[Frog Vision's Transifex page](https://www.transifex.com/bitcoin/bitcoin/).
 
 Translations are periodically pulled from Transifex and merged into the git repository. See the
 [translation process](doc/translation_process.md) for details on how this works.
